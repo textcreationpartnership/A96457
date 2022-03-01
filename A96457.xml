@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for the ministry, or Certain propositions asserted out of the Scriptures concerning the ministry. As concerning its continuance. Ordination. Work. Maintenance. With the answers of divers objections that occurre. / By William Wickins pastor of Andrew Hubbard, London.</title>
+            <author>Wickins, William, 1614-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96457</idno>
+            <idno type="STC">Wing W2085</idno>
+            <idno type="STC">Thomason E615_15</idno>
+            <idno type="STC">ESTC R204178</idno>
+            <idno type="EEBO-CITATION">99863857</idno>
+            <idno type="PROQUEST">99863857</idno>
+            <idno type="VID">116073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116073)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E615[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for the ministry, or Certain propositions asserted out of the Scriptures concerning the ministry. As concerning its continuance. Ordination. Work. Maintenance. With the answers of divers objections that occurre. / By William Wickins pastor of Andrew Hubbard, London.</title>
+                  <author>Wickins, William, 1614-1699.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Thomas Underhill and William Raybould, at the Blew Anchor, and at the Unicorn in Pauls Churh-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "its continuance. .. Maintenance." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "Nou. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Office --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116073:1" rendition="simple:additions"/>
+            <p>A Plea for the MINISTRY, OR Certain Propoſitions aſſerted out of the Scri<g ref="char:EOLhyphen"/>ptures concerning the Miniſtry.</p>
+            <p>As concerning
+<list>
+                  <item>Its Continuance.</item>
+                  <item>Ordination.</item>
+                  <item>Work.</item>
+                  <item>Maintenance.</item>
+               </list>
+            </p>
+            <p>With the Anſwers of divers Objections that occurre.</p>
+            <p>By WILLIAM WICKINS Paſtor of <hi>Andrew Hubbard,</hi> London.</p>
+            <q>
+               <bibl>
+                  <hi>2 CORINTH. 3.5, 6, 7, 8, 9, 10, 11.</hi>
+               </bibl> Our ſufficiency is of God, who alſo hath made us able Miniſters of the new Te<g ref="char:EOLhyphen"/>ſtament, not of the Letter but of the Spirit, for the Letter killeth, but the Spirit giveth life, but if the miniſtration of death, written and ingraven in ſtones, was glorious, ſo that the children of Iſrael could not ſtedfaſtly be<g ref="char:EOLhyphen"/>hold the face of Moſes, for the glory of his countenance, which glory was to be done away, how ſhall not the miniſtration of the Spirit be rather glorious? For if the miniſtration of condemnation be glorious, much more doth the mi<g ref="char:EOLhyphen"/>niſtration of righteouſneſſe exceed in glory, for even that which was made glorious had no glory in this reſpect, by reaſon of the glory that excelleth, for if that which was done away was glorious, much more that which remaineth is glorious.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Thomas <g ref="char:V">Ʋ</g>nderhill</hi> and <hi>William Raybould,</hi> at the Blew Anchor, and at the Unicorn in Pauls Church-yard. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116073:2"/>
+            <pb n="1" facs="tcp:116073:2"/>
+            <head>A Plea for the MINISTRY.</head>
+            <div n="1" type="proposition">
+               <head>PROP. I. That there is a Miniſteriall Office in the Church of Chriſt, to continue to the end of the World.</head>
+               <head>Proof. 1.</head>
+               <epigraph>
+                  <bibl>
+                     <hi>1 TIM. 3.1.</hi>
+                  </bibl>
+                  <q>This is a true ſaying, If a man deſire the office of a Biſhop, he deſireth a good work.</q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">I</seg>T is not uſeleſſe the Preface of the Apoſtle, <hi>This is a true ſaying.</hi> It is uſed once before,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> but about a weighty buſineſſe, 1 <hi>Tim.</hi> 1.15. <hi>This is a faithfull ſaying</hi> (the ſame phraſe) <hi>and worthy of all accepta<g ref="char:EOLhyphen"/>tion, that Chriſt Jeſus came into the world to ſave ſin<g ref="char:EOLhyphen"/>ners,</hi> &amp;c. By the rule of contraries, an untrue and unfaithfull ſaying, that there is no ſuch office to be deſired, a ſaying worthy of no acceptation. Again, <hi>the office of a Biſhop;</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> it is ſpoken of that good office bad <hi>Iudas</hi> had, and into which another was to ſucceed, <hi>Acts</hi> 1.20. And <hi>his Biſhoprick let another take;</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> as bad as he was, his Office was to be ſupplied by another, which was Miniſteriall, <hi>Acts</hi> 1.17.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>For he was numbred with us and had ob<g ref="char:EOLhyphen"/>tained part of this Miniſtry.</hi> And the Elders ordained by the Apo<g ref="char:EOLhyphen"/>ſtles have the ſame name given them, <hi>Acts</hi> 20.28. <hi>Take heed therefore to your ſelves and to all the flock, over the which the holy Ghoſt hath made you overſeers, to feed the Church of God.</hi> They are ſaid to be <hi>over the flock,</hi> it is Scripture Language,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> for though it be rendred as it may, in which,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> yet the prepoſition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> carrieth as much? yet we would not be underſtood of Lord<g ref="char:EOLhyphen"/>ſhip, the Apoſtle is againſt it, 1 <hi>Pet.</hi> 5.1, 2, 3. <hi>The Elders which
+<pb n="2" facs="tcp:116073:3"/>are among you I exhort,</hi> &amp;c. v.2. <hi>Feed the flock of God which is among you, taking the overſight thereof,</hi> &amp;c. v.3. <hi>neither as being Lords over Gods heritage.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> But that none might too eagerly catch at the tranſlation, let the Elder here have but his right, and write it, <hi>in which,</hi> if you pleaſe. Again, they were ſuch as were <hi>to feed the flock.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> I will paſſe by the full ſignification of the word, leaſt I cauſe jealouſie, which before I deſired to give no occaſion to, yet to feed the flock every one muſt needs confeſſe to be a Metaphor taken from the Shepherd, and Chriſt himſelf is ſtiled, the great Shepherd of our ſouls, 1 <hi>Pet.</hi> 5.4. <hi>When the chief Shepherd ſhall come.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Further they are wiſhed <hi>to take heed to all the flock:</hi> Surely all theſe denote an Officer, this Officer is called an Overſeer or Biſhop, the word being as before.</p>
+               <p n="2">2. Matth. 28.20. <hi>And loe I am with you alway unto the end of the world.</hi> He ſpeaks to his eleven Diſciples, elſewhere term<g ref="char:EOLhyphen"/>ed Apoſtles, v.16. <hi>Then the cleven diſciples went away into Gali<g ref="char:EOLhyphen"/>lee, into a mountain where Ieſus had appointed them.</hi> v.17. <hi>And when they ſaw him, they worſhipped him, but ſome doubted.</hi> v.18. <hi>And Ieſus came and ſpake unto them, All power is given me in heaven and in earth.</hi> v.19. <hi>Go ye therefore,</hi> to wit, the eleven Diſciples, whom he cals Apoſtles, <hi>Luke</hi> 6.13. <hi>And when it was day he called unto him his diſciples, and of them he choſe twelve whom he alſo called Apoſtles,</hi> one of the twelve, to wit, <hi>Iudas,</hi> was gone unto his own place. Again, their work is to teach and baptize,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> v.19, 20. <hi>Go ye therefore and teach all nations, bapti<g ref="char:EOLhyphen"/>zing them in the Name of the Father,</hi> &amp;c. And here you have the promiſe, <hi>And loe, I am with you alway even unto the end of the world, Amen.</hi> It may be worth while to obſerve the connexion, <hi>Teaching them to obſerve all things whatſoever I have commanded you,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> and <hi>loe I am with you.</hi> The ſpeciall notice Chriſt would that they ſhould take of it.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Loe <hi>I am with you.</hi> They did take great notice of his going from them, and they knew he would not return till the end of the world, but he would that they take as much notice of his preſence with them in their Miniſte<g ref="char:EOLhyphen"/>riall work,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Loe I am with you.</hi> Once more take notice how it is ratified, <hi>Amen,</hi> let them be whoſe words they will, Chriſts or the Spirits, it witneſſeth and ſeals the truth.</p>
+               <p>But if any would reply to that expreſſion, <hi>to the end of the
+<pb n="3" facs="tcp:116073:3"/>world,</hi> becauſe it may be rendred to the end of the age. Conſi<g ref="char:EOLhyphen"/>der,
+<list>
+                     <item>1. the phraſe is uſed, <hi>Matth.</hi> 13.39. <hi>The enemy that ſowed them is the devil, the harveſt is the end of the world, the reapers are the Angels,</hi> v.40. <hi>As therefore the tears are gathered and burnt in the fire, ſo ſhall it be in the end of the world.</hi> v.49. <hi>So ſhall it be in the end of the world, the Angels ſhall come forth and ſever the wicked from among the just.</hi> Matth. 24.9. <hi>Tell us when ſhall theſe things be, and what ſhall be the ſign of thy coming and of the end of the world:</hi> in all which places it undeniably reaches beyond a preſent age, to the end. If any hold be taken of the laſt by any, let them make all the Symptomes given by Chriſt appliable to that preſent age.</item>
+                     <item>2. It here expounds or further declares the precedent words rendred <hi>alwaies,</hi> how they are in the originall we have given you in the Margin.</item>
+                  </list> Laſtly, the work here in<g ref="char:EOLhyphen"/>joined, to which the promiſe is annexed, is perpetuall to the end, to Preach and Baptize.</p>
+               <p n="3">3. Epheſ. 4.11, 12, 13. <hi>And he gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers, for the perfecting of the Saints, for the work of the Ministry, for the edifying of the body of Chriſt, till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a pefect man, unto the meaſure of the ſtature of the fulneſſe of Chriſt.</hi> Particular Officers are here deſigned, ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers, and all is <hi>for the work of the Miniſtry.</hi> And the continuance is clear,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> v.13. <hi>Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the meaſure of the sta<g ref="char:EOLhyphen"/>ture of the fulneſſe of Chriſt:</hi> and when all this, the Saints per<g ref="char:EOLhyphen"/>fected, the Church edified to a fulneſſe, and we all come to com<g ref="char:EOLhyphen"/>pleatnes? but in the end, when as the Apoſtle ſaith, the Church ſhall be preſented to Chriſt, without ſpot or wrinkle, <hi>Epheſ.</hi> 5.27.</p>
+               <p>If it be ſaid, that Apoſtles, Prophets and Evangeliſts be ceaſed, We anſwer, there are yet paſtors and teachers, the others laid the foundation and had office and gifts accordingly, theſe do build thereupon, but if we will take away them alſo, then we muſt conclude, which we cannot with any reaſon, that we are all come to a perfect man, and to the meaſure of the ſtature of the fulneſſe of Chriſt.</p>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="4" facs="tcp:116073:4"/>
+               <head>
+                  <hi>PROP. II.</hi> That no man ought to aſſume this office unto himſelf, uncalled.</head>
+               <head>Proof.</head>
+               <p>HEbr. 5.4. <hi>And no man takes this honour to himſelf, but he that is called of God.<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> No man</hi> may doe it, can doe it, with<g ref="char:EOLhyphen"/>out ſinne, and an undue uſurping of honour. 1. <hi>This honour:</hi> what if we ſay honourable Office, for it is plain the Apoſtle ſpeaks of an office,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and that miniſteriall, <hi>for man in things per<g ref="char:EOLhyphen"/>taining to God,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> as he phraſes it, v.1. Again,
+<list>
+                     <item>1 <hi>Aaron was called of God.</hi> v.4. <hi>As was Aaron.</hi>
+                     </item>
+                     <item>2 <hi>Chriſt glorified not himſelf.</hi> v.5. So alſo <hi>Chriſt glorified not himſelf to be made an high Prieſt, but he that ſaid unto him, Thou art my Son, to day have I begotten thee.</hi>
+                     </item>
+                     <item>3 For whom is it then meet to honour himſelf by putting him<g ref="char:EOLhyphen"/>ſelf into an honourable office, for man in things appertaining to God, uncalled.</item>
+                  </list>
+               </p>
+               <p>Yea, but the Apoſtle ſpeaks of the High-prieſthood as Leviti<g ref="char:EOLhyphen"/>call in <hi>Aaron,</hi> and according to the order of <hi>Melchizedech</hi> in Chriſt.</p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1 That principally he doth,</item>
+                     <item>2 <hi>That by proportion</hi> it muſt extend to all Miniſteriall officers.<note place="margin">Per analogiam.</note>
+                        <list>
+                           <item>For firſt they are for men in things appertaining to God, and ſhall every one that will con<g ref="char:EOLhyphen"/>ſecrate himſelf, though he be of the loweſt of the people, or that are leaſt eſteemed in the Church, as the Apoſtle terms it? he ſaith of them, and that in things appertaining to men, that they ſhould be ſet to judge (1 <hi>Cor.</hi> 6.4. <hi>If then ye have judge<g ref="char:EOLhyphen"/>ments of things pertaining to this life) ſet them to judge,</hi>
+                              <note place="margin">
+                                 <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>.</note> 
+                              <hi>who are leaſt eſteemed in the Church.</hi>
+                           </item>
+                           <item>Secondly it is an honour.</item>
+                           <item>Thirdly an office, both theſe are not to be taken but given.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="proposition">
+               <head>
+                  <hi>PROP. III.</hi> That an externall mediate calling by men, is neceſſary in the ordi<g ref="char:EOLhyphen"/>nary ſtate of the Church.</head>
+               <head>Proof.</head>
+               <p n="1">1. THerefore did the Apoſtles ordain Elders in every Church, <hi>Acts</hi> 14.23. <hi>And when they had</hi>
+                  <note n="a" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, See D. <hi>Sea<g ref="char:EOLhyphen"/>mon</hi> of ordina<g ref="char:EOLhyphen"/>tion, <hi>p.</hi> 10 &amp;c.</note> 
+                  <hi>ordained them</hi>
+                  <note n="b" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Elders in
+<pb n="5" facs="tcp:116073:4"/>every</hi> c <hi>Church.</hi> 2. And therefore was <hi>Titus</hi> left at <hi>Creet,</hi>
+                  <note place="margin">e <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the phraſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſo uſed in the New Teſta<g ref="char:EOLhyphen"/>ment.</note> Tit. 1.5. <hi>For this cauſe left I thee in Creet, that thou ſhouldeſt ſet in order the things that are wanting, and ordain Elders in every City as I had appointed thee.</hi> We need not fear that any will aſſert theſe to be civil Elders, ſince that <hi>Titus</hi> was left by <hi>Paul</hi> to ordain them, but Elders here in the Church are to be ordained by <hi>Titus</hi> as in order to the ſetting of things in order that were wanting. Yea this is done not according to the Prudence of <hi>Titus,</hi> but the appointment of <hi>Paul,</hi> and therefore it is,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>as I have appointed thee.</hi> All which had been ſuperfluous, if an externall mediate call by man were not requiſite. For what may be ſaid <hi>pro</hi> or <hi>con</hi> concerning the word, <hi>That thou maieſt ordain</hi> in the originall,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> I refer to that ſolid Piece of the Learned Author D<hi rend="sup">r</hi> 
+                  <hi>Seaman</hi> in his Treatiſe of Ordination <hi>p.</hi> 6. 3. And there<g ref="char:EOLhyphen"/>fore alſo are rules left on record to note out fit perſons for this office, 1 <hi>Tim.</hi> 3.2, &amp;c. <hi>A Biſhop then must be,</hi> &amp;c. not for any only to judge himſelf by, but thereby to be judged, <hi>ver.</hi> 14, 15. <hi>Theſe things write I unto thee that thou maieſt know how thou oughteſt to behave thy ſelf in the houſe of God. Theſe things</hi> muſt needs referre to what is immediatly before, to wit,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the qualifi<g ref="char:EOLhyphen"/>cations of ſuch as are to be made Deacons or Biſhops. 4. A Caveat given, that hands be laid on no man ſuddenly, 1 <hi>Tim.</hi> 5.22. <hi>Lay hands ſuddenly on no man,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> which <hi>Timothy</hi> had no need to be warned in, had an internall call from God been ſufficient.</p>
+            </div>
+            <div n="4" type="proposition">
+               <head>
+                  <hi>PROP. IV.</hi> That in calling to the Miniſtry, Ordination is to be uſed by Prayer, Faſting and Impoſition of Hands.</head>
+               <head>Proof.</head>
+               <p>FIrſt, For Faſting and Prayer. 1. <hi>Acts</hi> 14.23. <hi>And when they had ordained them Elders in every Church,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>and had prayed with faſting,</hi> &amp;c. And there is not any ground of quarrell about this, by reaſon of the manner of delivering the words, becauſe 2. the very weightineſſe of the work it ſelf preſſes ſo much on us. Secondly, For Impoſition of Hands, the place a little above, 1 <hi>Tim</hi> 5.22. and the Impoſition of Hands in this place, is the more to be conſidered, becauſe it is given in among the ſtanding
+<pb n="6" facs="tcp:116073:5"/>rules for a man of God to proceed by in the Church, and the connexion it hath with that that follows, viz. <hi>Neither be par<g ref="char:EOLhyphen"/>takers of other mens ſins, Keep thy ſelf pure.</hi> It was uſed in the time of the old Law, and likewiſe in the Apoſtles time, accom<g ref="char:EOLhyphen"/>panied with the beſtowing of the gifts of the Spirit: yet likewiſe we finde it to extend it ſelf further, as in this place, ſo 1 <hi>Tim.</hi> 4.14. where is ſpoken of the laying on of the hands of the Presbytery, and <hi>Act.</hi> 13.2. <hi>Paul</hi> and <hi>Barnabas</hi> being to be ſeparated to the <hi>work whereunto God had called them, they faſted and prayed, and laid their hands on them, and ſent them away:</hi> ſo that notwithſtanding whatever may ſeem to be urged againſt it as ceremoniall in the law, or as being accompanied with gifts now ceaſed, yet by thoſe later Scriptures it may well be look<g ref="char:EOLhyphen"/>ed upon as a ſolemn Apoſtolicall rite fit to be uſed in ſetting one apart to the work of the Miniſtry.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>
+                  <hi>PROP. V.</hi> That this Ordination all along the new Teſtament, was performed by men in the Miniſtry.</head>
+               <head>Proof.</head>
+               <p>AS <hi>Acts</hi> 14.23. <hi>And when they had ordained them Elders,</hi> &amp;c. There needs no great conteſt about the word <hi>[they]</hi> the con<g ref="char:EOLhyphen"/>text ſeriouſly looked upon will give light ſufficient, <hi>ver.</hi> 20. <hi>And the next day he departed with Barnabas to Derbe,</hi> that is, <hi>Paul</hi> with <hi>Barnabas, and when they had preached the Goſpel;</hi> (they two) <hi>to that city, and had taught many, they returned a<g ref="char:EOLhyphen"/>gain to Lyſtra and Iconium and Antioch</hi> (the ſame they) <hi>con<g ref="char:EOLhyphen"/>firming the ſouls of the diſciples, and exhorting them to continue in the faith, and that we muſt through much tribulation enter into the kingdome of God. And when they had ordained them Elders in every Church, and had prayed with faſting, they commended them to the Lord on whom they beleeved. And after they had paſſed through Piſidia, they came to Pamphilia, and when they had preached the word in Perga, they went down unto Attalia, and thence ſailed to Antioch, from whence they had been recommended to the grace of God, for the work which they fulfilled.</hi> Of which work this is part, that they ordained Elders in every Church.
+<pb n="7" facs="tcp:116073:5"/>2 of <hi>Timothy</hi> it is clear, as before, 1 <hi>Tim.</hi> 5.22. 3 of <hi>Titus</hi> it is as manifeſt, <hi>Tit.</hi> 1 5. And as for the ordaining of Miniſters by the people, at leaſt <hi>without Elders,</hi>
+                  <note place="margin">Sine Presbyte<g ref="char:EOLhyphen"/>ris.</note> there is not the leaſt in the whole new Teſtament, which I conceive were not amiſſe for thoſe to conſider, who in another caſe ſtand much upon it. There is no precept, there is no example, as likewiſe by them that would come up to Scripture-rule in all things.</p>
+            </div>
+            <div n="6" type="proposition">
+               <head>
+                  <hi>PROP. VI.</hi> That unto them which are called to the office of the Miniſtry, be<g ref="char:EOLhyphen"/>longs the care of ſouls, the preaching of the word, the ad<g ref="char:EOLhyphen"/>miniſtration of the Seals, and that <hi>of office,</hi> as Miniſters of the Goſpel.</head>
+               <head>Proof.</head>
+               <p>HEb. 13.17. <hi>Obey them that have the rule over you, and ſub<g ref="char:EOLhyphen"/>mit your ſelves, for they watch for your ſouls, as they that muſt give account.</hi> They watch for your ſouls, the good of them,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and as thoſe that are charged with them, as they that muſt give ac<g ref="char:EOLhyphen"/>count, which is the direct work of thoſe that are ſpoken of <hi>ver.</hi> 7. <hi>Remember them that have the rule over you, who have spo<g ref="char:EOLhyphen"/>ken unto you the word of God:</hi> Spoken it by way of preaching it, and upon this ground is the Apoſtles injunction or exhortation, <hi>Obey them that have the rule over you, and ſubmit your ſelves,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>for,</hi> &amp;c. which muſt needs inferre more then a meer watching over one another of charity, <hi>ex charitate,</hi> otherwiſe nothing is here required but a mutual and brotherly ſubmiſſion one to ano<g ref="char:EOLhyphen"/>ther, which is clear againſt the Apoſtles ſcope. 2.1 Tim. 3.2. <hi>A Biſhop muſt be apt to teach,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> which inferreth more then a remote ability, and yet implieth his ability in reference to his work, which is in <hi>ver.</hi> 1. called <hi>a good work.</hi> 3.1. <hi>Cor.</hi> 4.1.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The Mini<g ref="char:EOLhyphen"/>ſters of Chriſt are ſtiled <hi>Stewards of the myſteries of God: Let a man ſo account of us as the Miniſters of Chriſt and Stewards of the my<g ref="char:EOLhyphen"/>ſteries of God.</hi> Mat. 28.19, 20. They are to teach and baptize,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Go teach and baptize all Nations,</hi> being the eleven Diſciples or Apo<g ref="char:EOLunhyphen"/>ſtles, as we have touched above.</p>
+            </div>
+            <div n="7" type="proposition">
+               <pb facs="tcp:116073:6"/>
+               <head>
+                  <hi>PROP. VII.</hi> That theſe Miniſters labouring in the word and doctrine, ought to be maintained by the Church of God.</head>
+               <head>Proof.</head>
+               <p>1 COr. 9.7. <hi>Who goeth a warfare any time at his own charges? who planteth a vineyard and eateth not the fruit thereof? or who feedeth a flock and eateth not of the milk of the flock?</hi> ver. 8. <hi>Say I theſe things as a man, or ſaith not the Law the ſame alſo?</hi> v.9. <hi>For it is written in the Law of</hi> Moſes, <hi>Thou ſhalt not muzzle the mouth of the Oxe that treadeth out the corn: doth God take care for Oxen?</hi> v.10. <hi>Or ſaith he it altogether for our ſakes, for our ſakes no doubt this is written, that he that ploweth ſhould plow in hope, and that he that threſheth in hope ſhould be partaker of his hope,</hi> ver. 11. <hi>If we have ſown unto you ſpirituall things is it a great thing if we ſhall reap your carnall things?</hi> v. 13. <hi>Doe you not know that they which miniſter about holy things, live of the things of the Temple? and they which wait at the Altar, are partakers with the Altar?</hi> v.14. <hi>Even ſo hath the Lord ordained,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp;.</note> 
+                  <hi>that they which preach the Goſpel ſhould live of the Goſpel.</hi>
+               </p>
+               <p>Yea, but <hi>Paul</hi> laboured with his hands.</p>
+               <list>
+                  <head>A.</head>
+                  <item>1. But ſo did not other of the Apoſtles.</item>
+                  <item>2. That then he had power to forbear, <hi>ver.</hi> 6. <hi>Or I only and Barnabas,</hi>
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>have not we power to forbear working?</hi>
+                  </item>
+                  <item>3. That it was upon ſpecial reaſon why he did ſo for the pre<g ref="char:EOLhyphen"/>ſent occaſion.<note place="margin">Probic &amp; nunc.</note>
+                  </item>
+                  <item>AS
+<list>
+                        <item>1. That he might not abuſe his power in the Goſpel, by being chargeable where it could not be without op<g ref="char:EOLhyphen"/>preſſion, <hi>v.</hi> 18. <hi>What is my reward then? verily, that when I preach the Goſpel, I make the Goſpel of Christ without charge,</hi>
+                           <note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</note> 
+                           <hi>that I abuſe not my power in the Goſpel.</hi> And that he ſpeaks of an oppreſſive charge is clear, 2 <hi>Corinth</hi> 11.9. <hi>And when I was preſent with you, and wanted, I was chargeable to no man: For that which was lacking to me, the brethren which came from Mace<g ref="char:EOLhyphen"/>donia ſupplied, and in all things I have kept my ſelf from being burdenſome to you,</hi>
+                           <note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</note> 
+                           <hi>and ſo will I keep my ſelf.</hi>
+                        </item>
+                        <pb n="9" facs="tcp:116073:6"/>
+                        <item>2. That upon this occaſion of living on the Goſpel, the Goſpel it ſelf might not be hindred, <hi>v.</hi> 12. <hi>If others be partakers of this power over you, are not we rather: Nevertheleſſe we have not uſed this power,</hi>
+                           <note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</note> 
+                           <hi>but ſuffer all things, leſt we ſhould hinder the Goſpel of Chriſt.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Yea, but he puts his example as a pattern to Elders, <hi>Act.</hi> 20.34. <hi>Yea, you your ſelves know, that theſe hands have miniſtred to my neceſſities, and to them that were with me.</hi> v.35. <hi>I have ſhewed you all things, how that ſo labouring, you ought to ſupport the weak.</hi>
+               </p>
+               <list>
+                  <head>A.</head>
+                  <item>1. The Apoſtle doth not build with one hand and pull down with another, he acquaints the Church at <hi>Corinth</hi> of that power which they that preach the Goſpel have to live upon the Goſpel: and we cannot imagine that from theſe he takes it away, eſpecially ſince he had ſaid, even ſo hath <hi>the Lord ordained;</hi> it is expreſly then <hi>jure diuiuo,</hi> that they that preach the Goſpel ſhould live of the Goſpel.</item>
+                  <item>2. Therefore it muſt needs follow, that by propounding his own example he would take them from the abuſe of that power, that they ſhould not be oppreſſively burthenſome, which he alway avoided,<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> which is further hinted in thoſe words, <hi>that ſo labouring ye ought to ſupport the weak.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
